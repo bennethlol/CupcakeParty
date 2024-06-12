@@ -43,7 +43,7 @@ public class CupcakeParty {
 	}
 	
 	/**
-	 * Creates a greeting using a custom greeting and name
+	 * Generates the message returning the number of cupcakes left
 	 * @param cupcakesRemain Calculates the total amount of cupcakes remaining
 	 * @return The total amount of remaining cupcakes
 	 */
